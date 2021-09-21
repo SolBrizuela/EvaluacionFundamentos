@@ -1,0 +1,7 @@
+C:\Users\maria\Desktop\SolBrizuela\Proyecto5\bin\Debug\Proyecto5.exe.config
+C:\Users\maria\Desktop\SolBrizuela\Proyecto5\bin\Debug\Proyecto5.exe
+C:\Users\maria\Desktop\SolBrizuela\Proyecto5\bin\Debug\Proyecto5.pdb
+C:\Users\maria\Desktop\SolBrizuela\Proyecto5\obj\Debug\Proyecto5.csproj.AssemblyReference.cache
+C:\Users\maria\Desktop\SolBrizuela\Proyecto5\obj\Debug\Proyecto5.csproj.CoreCompileInputs.cache
+C:\Users\maria\Desktop\SolBrizuela\Proyecto5\obj\Debug\Proyecto5.exe
+C:\Users\maria\Desktop\SolBrizuela\Proyecto5\obj\Debug\Proyecto5.pdb
